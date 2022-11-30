@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SIDLAD
-- 👀 I’m interested in basketball, football, table tennis karate, and chess
+- 👀 I’m interested in basketball, football, table tennis, karate, and chess
 - 🌱 I’m currently learning Computer Science at BITS PILANI
 - 💞️ I’m looking to collaborate on (projects)?
 - 📫 How to reach me: insta handle - sidlad_03
