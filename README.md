@@ -2,7 +2,13 @@
 - 👀 I’m interested in Basketball and Competitive Coding
 - 🌱 I’m currently learning Computer Science at BITS PILANI
 - 💞️ I’m looking to collaborate on AI/ML projects.
-- 📫 How to reach me: instagram handle - sidlad_03
+- 📫 How to reach me: <a href="https://linkedin.com/in/siddharth-s-s" target="_blank" style="text-decoration: none;">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="16" style="vertical-align: middle; margin: 0 6px;">
+</a> <a href="https://codeforces.com/profile/sidlad" target="_blank" style="text-decoration: none;">
+  <img src="https://codeforces.org/s/27033/images/codeforces-logo.png" alt="Codeforces" height="16" style="vertical-align: middle; margin: 0 6px; border: none;">
+</a> <a href="https://instagram.com/sidlad_03" target="_blank" style="text-decoration: none;">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="Instagram" height="16" style="vertical-align: middle; margin: 0 6px;">
+</a>
 
 <!---
 SIDLAD/SIDLAD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
